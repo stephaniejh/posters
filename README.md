@@ -2,7 +2,7 @@
 A home for my conference posters
 
 ### Australasian Neuroscience Society Conference 2024 (Perth, Australia)
-![Stephanie_Huang_ANS_poster_v11_A2_REDO_v2_sat_320dpi](https://github.com/user-attachments/assets/ca3ea66e-1249-4c18-af33-cec9a3e26a4f)
+![Stephanie_Huang_ANS_poster_A0_resizedA2_reexport_320dpi_github](https://github.com/user-attachments/assets/4df48a10-4783-4d9e-8db5-cf67d1b4caea)
 *https://www.ans.org.au/ans-asm*
 
 ### Australasian Winter Conference for Brain Research 2023 (Queenstown, New Zealand)
